@@ -1,23 +1,13 @@
-class Solution(object):
-    def mySqrt(self, x):
-        
-        l,r = 1, x//2
-        res = 1
-
-        if x<2:
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        if x == 0 or x == 1:
             return x
 
-        while l <= r:
-            m = (l+r)//2
+        for i in range(1, x+1):
+            if i * i == x:
+                return i
+            elif i * i > x:
+                return i - 1
 
-            if m*m == x:
-                return m
-            elif m*m < x:
-                res = m 
-                l = m + 1
-            else:
-                r = m-1
-
-        return res        
 
         
