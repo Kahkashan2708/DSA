@@ -2,18 +2,11 @@ class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
         
         res = []
+        set1 = set(nums1)
+        set2 = set(nums2) 
 
-        len1 = len(nums1)
-        len2 = len(nums2)
-
-        if len1 >= len2:
-            for i in nums2:
-                if i not in res and i in nums1:
-                    res.append(i)        
-
-        else:
-            for i in nums1:
-                if i not in res and i in nums2:
-                    res.append(i)  
+        for num in set1:
+            if num in set2:
+                res.append(num)
 
         return res            
