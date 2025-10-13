@@ -3,7 +3,7 @@ class Solution:
 
         left, right = 0, len(numbers)-1
 
-        for nums in numbers:
+        while left < right:
 
             if numbers[left] + numbers[right] == target:
                 return [ left+1, right+1]
