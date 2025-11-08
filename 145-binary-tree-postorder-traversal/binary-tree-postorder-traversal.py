@@ -9,7 +9,7 @@ class Solution(object):
         lst = []
         def dfs(node):
             if not node:
-                return None
+                return 
             dfs(node.left)
             dfs(node.right)
             lst.append(node.val)
