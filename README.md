@@ -39,4 +39,12 @@ To improve my problem-solving and coding efficiency by consistently solving DSA 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kahkashan2708/DSA/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kahkashan2708/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kahkashan2708/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
