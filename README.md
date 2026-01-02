@@ -49,4 +49,12 @@ To improve my problem-solving and coding efficiency by consistently solving DSA 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Kahkashan2708/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Kahkashan2708/DSA/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Kahkashan2708/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
