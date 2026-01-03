@@ -45,6 +45,7 @@ To improve my problem-solving and coding efficiency by consistently solving DSA 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kahkashan2708/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Kahkashan2708/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Kahkashan2708/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
