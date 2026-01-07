@@ -52,10 +52,12 @@ To improve my problem-solving and coding efficiency by consistently solving DSA 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Kahkashan2708/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Kahkashan2708/DSA/tree/master/0050-powx-n) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kahkashan2708/DSA/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Kahkashan2708/DSA/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
